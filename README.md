@@ -1,2 +1,4 @@
 # DATA200-Project
-Code for DATA C200 Graduate Project (Topic 2: Climate and the Environment, Dataset A: General Measurements and Statistics)
+Term project for DATA200 (Principles and Techniques of Data Science), UC Berkeley
+
+Topic 2: Climate and the Environment, Dataset A: General Measurements and Statistics
